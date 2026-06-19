@@ -6,6 +6,7 @@ Personal webpage
 - For my welcome page, maintain a sleek, minimalist typography layout featuring a high-impact intro headline introducing my role as an Associate Software Engineer with zero body buttons, relying completely on the top navigation header to guide user traffic to secondary pages.
 *   **Media Integration:** Incorporate relevant personal photography (travel landmarks and running metrics) to add authentic visual context to the bio.
 *   **External Links:** Provide clear, accessible icon links to LinkedIn and personal GitHub profile 
+*   **Contact Layout:** A clean, asymmetric layout featuring a clear page-level header, direct communication endpoints (Email and Geographic Location), and minimal text formatting to ensure zero user friction
 # Design Requirements
 *   **Layout:** A simple, high-contrast layout using a solid blue background for a clean, professional look.
 *   **Visuals:** A crisp two-column setup with left-aligned intro text and your tagline, balanced by a small, scaled graduation photo on the right.
